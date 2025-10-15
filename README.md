@@ -19,7 +19,7 @@ A simple yet elegant calculator application built with Python and tkinter. Perfo
 
 ## Preview
 
-![Calculator Application](calculator.png)
+![Calculator Application](IMG-20251015-WA0019.jpg)
 
 ## Installation
 
